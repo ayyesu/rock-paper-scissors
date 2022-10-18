@@ -1,4 +1,4 @@
-let comChoice = {Value: "this"};
+let compChoice = {Value: "this"};
 let playerChoice;
 let compChoiceNum = 0;
 let playerChoiceNum = 0;
